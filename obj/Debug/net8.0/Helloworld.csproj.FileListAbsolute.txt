@@ -1,0 +1,17 @@
+C:\Users\C5396794\source\repos\SamplehellowworldLambda\SamplehellowworldLambda\bin\Debug\net8.0\Helloworld.deps.json
+C:\Users\C5396794\source\repos\SamplehellowworldLambda\SamplehellowworldLambda\bin\Debug\net8.0\Helloworld.runtimeconfig.json
+C:\Users\C5396794\source\repos\SamplehellowworldLambda\SamplehellowworldLambda\bin\Debug\net8.0\Helloworld.dll
+C:\Users\C5396794\source\repos\SamplehellowworldLambda\SamplehellowworldLambda\bin\Debug\net8.0\Helloworld.pdb
+C:\Users\C5396794\source\repos\SamplehellowworldLambda\SamplehellowworldLambda\bin\Debug\net8.0\Amazon.Lambda.Core.dll
+C:\Users\C5396794\source\repos\SamplehellowworldLambda\SamplehellowworldLambda\bin\Debug\net8.0\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\C5396794\source\repos\SamplehellowworldLambda\SamplehellowworldLambda\obj\Debug\net8.0\Helloworld.csproj.AssemblyReference.cache
+C:\Users\C5396794\source\repos\SamplehellowworldLambda\SamplehellowworldLambda\obj\Debug\net8.0\Helloworld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\C5396794\source\repos\SamplehellowworldLambda\SamplehellowworldLambda\obj\Debug\net8.0\Helloworld.AssemblyInfoInputs.cache
+C:\Users\C5396794\source\repos\SamplehellowworldLambda\SamplehellowworldLambda\obj\Debug\net8.0\Helloworld.AssemblyInfo.cs
+C:\Users\C5396794\source\repos\SamplehellowworldLambda\SamplehellowworldLambda\obj\Debug\net8.0\Helloworld.csproj.CoreCompileInputs.cache
+C:\Users\C5396794\source\repos\SamplehellowworldLambda\SamplehellowworldLambda\obj\Debug\net8.0\Helloworld.csproj.Up2Date
+C:\Users\C5396794\source\repos\SamplehellowworldLambda\SamplehellowworldLambda\obj\Debug\net8.0\Helloworld.dll
+C:\Users\C5396794\source\repos\SamplehellowworldLambda\SamplehellowworldLambda\obj\Debug\net8.0\refint\Helloworld.dll
+C:\Users\C5396794\source\repos\SamplehellowworldLambda\SamplehellowworldLambda\obj\Debug\net8.0\Helloworld.pdb
+C:\Users\C5396794\source\repos\SamplehellowworldLambda\SamplehellowworldLambda\obj\Debug\net8.0\Helloworld.genruntimeconfig.cache
+C:\Users\C5396794\source\repos\SamplehellowworldLambda\SamplehellowworldLambda\obj\Debug\net8.0\ref\Helloworld.dll

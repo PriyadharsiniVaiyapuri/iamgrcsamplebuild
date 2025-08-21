@@ -1,0 +1,17 @@
+C:\Users\C5396794\source\repos\SamplehellowworldLambda\SamplehellowworldLambda\bin\Debug\net8.0\SamplehellowworldLambda.deps.json
+C:\Users\C5396794\source\repos\SamplehellowworldLambda\SamplehellowworldLambda\bin\Debug\net8.0\SamplehellowworldLambda.runtimeconfig.json
+C:\Users\C5396794\source\repos\SamplehellowworldLambda\SamplehellowworldLambda\bin\Debug\net8.0\SamplehellowworldLambda.dll
+C:\Users\C5396794\source\repos\SamplehellowworldLambda\SamplehellowworldLambda\bin\Debug\net8.0\SamplehellowworldLambda.pdb
+C:\Users\C5396794\source\repos\SamplehellowworldLambda\SamplehellowworldLambda\bin\Debug\net8.0\Amazon.Lambda.Core.dll
+C:\Users\C5396794\source\repos\SamplehellowworldLambda\SamplehellowworldLambda\bin\Debug\net8.0\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\C5396794\source\repos\SamplehellowworldLambda\SamplehellowworldLambda\obj\Debug\net8.0\SamplehellowworldLambda.csproj.AssemblyReference.cache
+C:\Users\C5396794\source\repos\SamplehellowworldLambda\SamplehellowworldLambda\obj\Debug\net8.0\SamplehellowworldLambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\C5396794\source\repos\SamplehellowworldLambda\SamplehellowworldLambda\obj\Debug\net8.0\SamplehellowworldLambda.AssemblyInfoInputs.cache
+C:\Users\C5396794\source\repos\SamplehellowworldLambda\SamplehellowworldLambda\obj\Debug\net8.0\SamplehellowworldLambda.AssemblyInfo.cs
+C:\Users\C5396794\source\repos\SamplehellowworldLambda\SamplehellowworldLambda\obj\Debug\net8.0\SamplehellowworldLambda.csproj.CoreCompileInputs.cache
+C:\Users\C5396794\source\repos\SamplehellowworldLambda\SamplehellowworldLambda\obj\Debug\net8.0\Samplehe.2C1DF995.Up2Date
+C:\Users\C5396794\source\repos\SamplehellowworldLambda\SamplehellowworldLambda\obj\Debug\net8.0\SamplehellowworldLambda.dll
+C:\Users\C5396794\source\repos\SamplehellowworldLambda\SamplehellowworldLambda\obj\Debug\net8.0\refint\SamplehellowworldLambda.dll
+C:\Users\C5396794\source\repos\SamplehellowworldLambda\SamplehellowworldLambda\obj\Debug\net8.0\SamplehellowworldLambda.pdb
+C:\Users\C5396794\source\repos\SamplehellowworldLambda\SamplehellowworldLambda\obj\Debug\net8.0\SamplehellowworldLambda.genruntimeconfig.cache
+C:\Users\C5396794\source\repos\SamplehellowworldLambda\SamplehellowworldLambda\obj\Debug\net8.0\ref\SamplehellowworldLambda.dll
