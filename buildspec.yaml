@@ -11,14 +11,14 @@ phases:
   pre_build:
     commands:
       - echo "Restoring dependencies..."
-      - dotnet restore C:\Users\C5396794\source\repos\SamplehellowworldLambda\SamplehellowworldLambda\Helloworld.csproj
+      - dotnet restore C:\Users\C5396794\source\repos\SamplehellowworldLambda\src\Helloworld.csproj
   build:
     commands:
       - echo "hello world"
-      - dotnet build C:\Users\C5396794\source\repos\SamplehellowworldLambda\SamplehellowworldLambda\Helloworld.csproj --configuration Release
+      - dotnet build C:\Users\C5396794\source\repos\SamplehellowworldLambda\src\Helloworld.csproj --configuration Release
       - echo "Packaging Lambda..."
       - dotnet lambda package \
-          --project-location C:\Users\C5396794\source\repos\SamplehellowworldLambda\SamplehellowworldLambda\
+          --project-location C:\Users\C5396794\source\repos\src\SamplehellowworldLambda\
           --configuration Release \
           --output-package bin\release\LambdaFn.zip
 post_build:

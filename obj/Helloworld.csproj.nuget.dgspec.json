@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\C5396794\\source\\repos\\SamplehellowworldLambda\\SamplehellowworldLambda\\Helloworld.csproj": {}
+    "C:\\Users\\C5396794\\source\\repos\\SamplehellowworldLambda\\src\\Helloworld.csproj": {}
   },
   "projects": {
-    "C:\\Users\\C5396794\\source\\repos\\SamplehellowworldLambda\\SamplehellowworldLambda\\Helloworld.csproj": {
+    "C:\\Users\\C5396794\\source\\repos\\SamplehellowworldLambda\\src\\Helloworld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\C5396794\\source\\repos\\SamplehellowworldLambda\\SamplehellowworldLambda\\Helloworld.csproj",
+        "projectUniqueName": "C:\\Users\\C5396794\\source\\repos\\SamplehellowworldLambda\\src\\Helloworld.csproj",
         "projectName": "Helloworld",
-        "projectPath": "C:\\Users\\C5396794\\source\\repos\\SamplehellowworldLambda\\SamplehellowworldLambda\\Helloworld.csproj",
+        "projectPath": "C:\\Users\\C5396794\\source\\repos\\SamplehellowworldLambda\\src\\Helloworld.csproj",
         "packagesPath": "C:\\Users\\C5396794\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\C5396794\\source\\repos\\SamplehellowworldLambda\\SamplehellowworldLambda\\obj\\",
+        "outputPath": "C:\\Users\\C5396794\\source\\repos\\SamplehellowworldLambda\\src\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -72,15 +72,7 @@
           "warn": true,
           "downloadDependencies": [
             {
-              "name": "Microsoft.AspNetCore.App.Runtime.linux-x64",
-              "version": "[8.0.15, 8.0.15]"
-            },
-            {
               "name": "Microsoft.NETCore.App.Crossgen2.win-x64",
-              "version": "[8.0.15, 8.0.15]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Runtime.linux-x64",
               "version": "[8.0.15, 8.0.15]"
             }
           ],
@@ -90,11 +82,6 @@
             }
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
-        }
-      },
-      "runtimes": {
-        "linux-x64": {
-          "#import": []
         }
       }
     }
