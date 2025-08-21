@@ -1,0 +1,6 @@
+C:\Users\C5396794\source\repos\SamplehellowworldLambda\SamplehellowworldLambda\bin\Release\net8.0\publish\Helloworld.deps.json
+C:\Users\C5396794\source\repos\SamplehellowworldLambda\SamplehellowworldLambda\bin\Release\net8.0\publish\Helloworld.runtimeconfig.json
+C:\Users\C5396794\source\repos\SamplehellowworldLambda\SamplehellowworldLambda\bin\Release\net8.0\publish\Helloworld.pdb
+C:\Users\C5396794\source\repos\SamplehellowworldLambda\SamplehellowworldLambda\bin\Release\net8.0\publish\Amazon.Lambda.Core.dll
+C:\Users\C5396794\source\repos\SamplehellowworldLambda\SamplehellowworldLambda\bin\Release\net8.0\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\C5396794\source\repos\SamplehellowworldLambda\SamplehellowworldLambda\bin\Release\net8.0\publish\Helloworld.dll
